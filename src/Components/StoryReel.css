@@ -1,0 +1,6 @@
+/** @format */
+
+.storyReel {
+	display: flex;
+	flex: 0.33;
+}
